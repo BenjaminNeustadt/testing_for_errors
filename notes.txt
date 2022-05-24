@@ -1,0 +1,1 @@
+Learning to test for errors using RSpec
